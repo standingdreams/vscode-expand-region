@@ -12,6 +12,7 @@ export const LanguageType = {
     TYPE_SCRIPT: 'typescript',
     HTML: 'html',
     PHP: 'php',
+    ISML: 'isml',
     Text: 'plaintext'
 }
 

@@ -18,6 +18,9 @@ export class ExpanderManager {
                 case LanguageType.PHP:
                     exp = new expander.php();
                     break;
+                case LanguageType.ISML:
+                    exp = new expander.isml();
+                    break;
                 default:
                     exp = new expander.javascript();
                     break;

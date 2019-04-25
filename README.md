@@ -20,7 +20,7 @@ https://github.com/aronwoost/sublime-expand-region
 and so on...
 
 
-### HTML/PHP
+### HTML/PHP/ISML
 
 ![](https://raw.githubusercontent.com/windwp/vscode-expand-region/master/image/html.gif)
 
